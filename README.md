@@ -2,7 +2,7 @@
 
 Data Analyst / Data Specialist based in the DFW area, recently graduated Magna Cum Laude with a B.S. in Data Science from the University of North Texas (May 2025).
 
-I like turning messy data into something people can actually use, whether that's a pipeline, a dashboard, or a clean SQL query that answers a question fast.
+I like turning messy data into something people can actually use — whether that's a pipeline, a dashboard, or a clean SQL query that answers a question fast.
 
 ## 🔧 Tools I work with
 
@@ -18,11 +18,9 @@ I like turning messy data into something people can actually use, whether that's
 
 ## 📌 Featured Projects
 
-*(Pin these once the repos are ready — swap in your real repo links)*
-
-- **Predicting NBA Player Performance** — regression/ML models in Python estimating future player performance from multi-season stats
-- **Forecasting Secondary Education Outcomes** — Python + RapidMiner model forecasting post-graduation pathways, presented via Tableau
-- **[Project Name]** — one-line description
+- **[NBA Minutes Played Analysis](https://github.com/g-b-w/nba-minutes-analysis)** — EDA, hypothesis testing, and regression/classification models (SVM, linear regression, decision tree) predicting NBA player minutes from performance stats
+- **[NFL Super Bowl Winner Prediction](https://github.com/g-b-w/superbowl-prediction)** — team project: R feature engineering (Elo ratings, betting spreads) and Python logistic regression/random forest modeling
+- **[Bookstore Database Design](https://github.com/g-b-w/bookstore-database-design)** — normalized relational schema design with ERD and full data dictionary
 
 ## 💼 Background
 
