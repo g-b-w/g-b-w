@@ -2,7 +2,7 @@
 
 Data Analyst / Data Specialist based in the DFW area, recently graduated Magna Cum Laude with a B.S. in Data Science from the University of North Texas (May 2025).
 
-I like turning messy data into something people can actually use — whether that's a pipeline, a dashboard, or a clean SQL query that answers a question fast.
+I like turning messy data into something people can actually use, whether that's a pipeline, a dashboard, or a clean SQL query that answers a question fast.
 
 ## 🔧 Tools I work with
 
